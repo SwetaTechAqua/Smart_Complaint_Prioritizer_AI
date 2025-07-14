@@ -69,11 +69,12 @@ Smart_Complaint_Prioritizer/
 
 ## ✅ Sample Use Case
 Complaint:
+``` bash
 "There is a fire on transformer pole in Varachha, sparks coming out!"
 → Urgency: Critical
 → Type: Hardware Fault
 → Location: Varachha
-
+```
 You can also try bulk classification using the preloaded complaint samples in the data/ folder:
 - sample_complaints.csv
 - sample_complaints_2.csv
